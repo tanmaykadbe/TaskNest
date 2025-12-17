@@ -1,8 +1,6 @@
-# TaskNest
-It is a project made purely for frontend based on React and Tailwind CSS
-📝 iTask – Todo App
+# TaskNest: Todo App
 
-A simple and efficient Todo (Task Management) application built using React and Tailwind CSS.
+A simple and efficient Task Management application built using React and Tailwind CSS.
 The app allows users to manage daily tasks with features like add, edit, delete, mark complete, and persistent storage.
 
 🚀 Features
@@ -17,49 +15,21 @@ The app allows users to manage daily tasks with features like add, edit, delete,
 
 👀 Show / hide completed tasks
 
-💾 Persistent data using localStorage
-
 🎨 Clean and responsive UI with Tailwind CSS
-
-🧭 Header (Navbar) and Footer included
-
-⚡ Fast development setup using Vite
 
 🛠️ Tech Stack
 
 React (Hooks: useState, useEffect)
 
 Tailwind CSS
-
 Vite
-
-React Icons
-
 UUID (for unique task IDs)
-
-Browser localStorage
-
-📂 Project Structure
-to-do-app/
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-│   └── assets/
-├── public/
-├── package.json
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
-
-
-Note: Navbar, Footer, and Todo logic are implemented inside App.jsx for simplicity and learning purposes.
 
 ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/itask-todo-app.git
+git clone https://github.com/your-tanmaykadbe/itask-todo-app.git
 
 
 2️⃣ Navigate to the project folder
