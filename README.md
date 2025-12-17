@@ -5,11 +5,9 @@ The app allows users to manage daily tasks with features like add, edit, delete,
 
 🚀 Features
 
-➕ Add new tasks
+➕ Add new tasks and Delete tasks
 
 ✏️ Edit existing tasks
-
-❌ Delete tasks
 
 ✔️ Mark tasks as completed
 
@@ -19,74 +17,33 @@ The app allows users to manage daily tasks with features like add, edit, delete,
 
 🛠️ Tech Stack
 
-React (Hooks: useState, useEffect)
-
+React
 Tailwind CSS
 Vite
 UUID (for unique task IDs)
 
 ⚙️ Installation & Setup
 
-1️⃣ Clone the repository
+1️. Clone the repository
 
-git clone https://github.com/your-tanmaykadbe/itask-todo-app.git
+git clone https://github.com/tanmaykadbe/TaskNest.git
 
 
-2️⃣ Navigate to the project folder
+2️. Navigate to the project folder
 
 cd itask-todo-app
 
 
-3️⃣ Install dependencies
+3️. Install dependencies
 
 npm install
 
 
-4️⃣ Run the development server
+4️. Run the development server
 
 npm run dev
 
 
-5️⃣ Open in browser
+5️. Open in browser
 
 http://localhost:5173
-
-🧠 How the App Works (High Level)
-
-Tasks are stored in React state as objects
-
-On page load, tasks are fetched from localStorage
-
-Any change in tasks automatically updates localStorage
-
-UI updates are driven entirely by state
-
-Conditional rendering is used to show/hide completed tasks
-
-🧪 Key React Concepts Used
-
-Functional Components
-
-Controlled Inputs
-
-State Management (useState)
-
-Side Effects (useEffect)
-
-Conditional Rendering
-
-Immutability in state updates
-
-Local Storage integration
-
-🎨 UI & UX
-
-Built using Tailwind CSS utility classes
-
-Smooth hover animations in Navbar
-
-Responsive layout
-
-Clean, minimal design
-
-Focus and accessibility-friendly input fields
