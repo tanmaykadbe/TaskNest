@@ -45,5 +45,3 @@ npm run dev
 
 
 5️. Open in browser
-
-http://localhost:5173
